@@ -1,0 +1,19 @@
+.whole-date{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border: 2px solid hsl(317 100% 54%);
+    background-color: rgb(44, 42, 42);
+    color: white;
+    height: 6rem;
+    width: 6.5rem;
+    border-radius: 10px;
+}
+.month{
+    font-weight: 600;
+}
+.day{
+    font-size: 1.4rem;
+    font-weight: 700;
+}
